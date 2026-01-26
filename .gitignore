@@ -5,3 +5,4 @@ vendor/roles
 .trellis/*
 !.trellis/cli.yml
 trellis.cli.local.yml
+midapex.com

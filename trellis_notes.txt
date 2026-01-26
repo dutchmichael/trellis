@@ -1,0 +1,19 @@
+~/Sites/roots/trellis/trellis_notes.txt
+
+gh repo clone dutchmichael/trellis
+
+dutchmichael in trellis at Michaels-MacBook-Pro.local on  master 
+[I] ➜ grv                       
+origin	git@github.com:dutchmichael/trellis.git (fetch)
+origin	git@github.com:dutchmichael/trellis.git (push)
+upstream	git@github.com:roots/trellis.git (fetch)
+upstream	git@github.com:roots/trellis.git (push)
+
+[I] ➜ brew install roots/tap/trellis-cli
+
+[I] ➜ trellis new midapex.com      # switch to midapex.com_notes.txt
+
+
+
+
+
